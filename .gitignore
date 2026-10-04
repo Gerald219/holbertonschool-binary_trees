@@ -1,0 +1,24 @@
+*.swp
+*.swo
+*~
+*.o
+/build/
+# Numbered coursework executables (source files remain tracked)
+/[0-9]*-node
+/[0-9]*-left
+/[0-9]*-right
+/[0-9]*-del
+/[0-9]*-leaf
+/[0-9]*-root
+/[0-9]*-pre
+/[0-9]*-in
+/[0-9]*-post
+/[0-9]*-height
+/[0-9]*-depth
+/[0-9]*-size
+/[0-9]*-leaves
+/[0-9]*-balance
+/[0-9]*-full
+/[0-9]*-perfect
+/[0-9]*-sibling
+/[0-9]*-uncle
